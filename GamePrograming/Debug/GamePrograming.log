@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\ROG\source\repos\GamePrograming\GamePrograming\Main.cpp(121,7): warning C4244: '인수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GamePrograming.vcxproj -> C:\Users\ROG\source\repos\GamePrograming\Debug\GamePrograming.exe
